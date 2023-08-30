@@ -60,68 +60,7 @@ Now that you've completed building your application, you're ready to run it and 
 - **Tailwind CSS**: Tailwind CSS is employed for styling and creating a responsive design.
 - **OpenAI API**: The OpenAI API powers the code translation functionality.
 
-## Daily Life Use
-
-### Learning New Programming Languages
-
-If you're eager to learn a new programming language, simply head over to the code translator. You can generate code snippets or convert existing code to your desired programming language. It's an excellent way to expand your programming skills.
-
-### Code Conversion Made Easy
-
-Have you written a piece of code in one language and need to rewrite it in another? The code translator is here to simplify the process. You can effortlessly convert your code, saving time and effort.
-
-## Conclusion
-
-This AI code translator a valuable addition to your toolkit. Happy coding! 🚀
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Code Translator AI
-
-![Code Translator AI](https://github.com/ankitrout2903/Code-Translator-AI/assets/88599131/27177890-3537-4e4f-a46e-9c56bb403d59)
-
-## Introduction
-
-Congratulations on completing the Code Translator AI project! This application leverages cutting-edge technologies to translate code between various programming languages. Below, you'll find a guide on setting up the development environment and running the application locally.
-
-## Technologies Used
-
-- **Node.js**: The backend of the application is built with Node.js.
-- **React**: The frontend is developed using React for creating a dynamic user interface.
-- **Next.js**: Next.js is used for server-side rendering and routing.
-- **Tailwind CSS**: Tailwind CSS is employed for styling and creating a responsive design.
-- **OpenAI API**: The OpenAI API powers the code translation functionality.
-
-## Getting Started
-
-### Setting Up Your Development Environment
-
-1. **Node.js Installation**: Ensure you have Node.js installed on your system.
-
-2. **Frontend Setup**:
-   - Navigate to the client directory: `cd client`
-   - Install dependencies: `npm install`
-   - Start the development server: `npm run dev`
-   - Your frontend will be available at `http://localhost:3000`.
-
-3. **Backend Setup**:
-   - Go back to the project root: `cd ../server`
-   - Install backend dependencies: `npm install`
-   - Start the backend server: `npm start`
-   - The backend will be running at `http://localhost:3001`.
-
-## Usage
+  ## Usage
 
 ### Frontend
 After setting up and running both the frontend and backend, open your web browser and access the application at `http://localhost:3000`.
@@ -135,6 +74,7 @@ After setting up and running both the frontend and backend, open your web browse
 ### Backend
 The backend handles requests and responses, enabling the translation functionality. You don't need to interact with the backend directly during normal usage.
 
+
 ## Daily Life Use
 
 This AI-powered code translator can simplify your programming tasks:
@@ -146,3 +86,4 @@ This AI-powered code translator can simplify your programming tasks:
 ## Conclusion
 
 Congratulations on mastering the Code Translator AI project. This tool is a valuable addition to your toolkit, making code translation a breeze. Happy coding! 🚀
+
