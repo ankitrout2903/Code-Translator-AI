@@ -59,6 +59,7 @@ Now that you've completed building your application, you're ready to run it and 
 - **Next.js**: Next.js is used for server-side rendering and routing.
 - **Tailwind CSS**: Tailwind CSS is employed for styling and creating a responsive design.
 - **OpenAI API**: The OpenAI API powers the code translation functionality.
+- **AWS Amplify**: Hosting static site (Frontend/Client Deployement).
 
   ## Usage
 
