@@ -2,7 +2,7 @@
 
 This application leverages cutting-edge technologies to translate code between various programming languages. Below, you'll find a guide on setting up the development environment and running the application locally.
 
-<img width="960" alt="image" src="https://github.com/ankitrout2903/Code-Translator-AI/assets/88599131/27177890-3537-4e4f-a46e-9c56bb403d59">
+<img width="960" alt="image" src="https://github.com/ankitrout2903/Code-Translator-AI/assets/88599131/88e6d4cf-95ed-4fc5-9dbf-1f77cdcd630e">
 
 
 ## Getting Started
